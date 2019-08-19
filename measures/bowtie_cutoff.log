@@ -1,0 +1,782 @@
+2019-08-11 19:41:25,134 - >>> Graph embedding @ cutoff 5 has been loaded!
+2019-08-11 19:41:25,135 - >>> 56566 nodes and 128922 edges in the graph
+2019-08-11 19:41:25,135 -     289477889 views throughout the graph
+2019-08-11 19:41:25,563 - >>> 522 (0.86%) nodes in the largest SCC
+2019-08-11 19:41:25,564 -     78200143 (27.01%) views in the largest SCC
+2019-08-11 19:41:26,440 - >>> 18069 (29.75%) nodes in the IN component
+2019-08-11 19:41:26,440 -     14176 scc in the IN component
+2019-08-11 19:41:26,451 -     135953183 (46.96%) views in the IN component
+2019-08-11 19:41:31,464 - >>> 22 (0.04%) nodes in the OUT component
+2019-08-11 19:41:31,464 -     16 scc in the OUT component
+2019-08-11 19:41:31,464 -     4894908 (1.69%) views in the OUT component
+2019-08-11 19:46:37,459 - >>> 4836 (7.96%) nodes in the Tendrils
+2019-08-11 19:46:37,460 -     3506 scc in the Tendrils
+2019-08-11 19:46:37,463 -     40032083 (13.83%) views in the Tendrils
+2019-08-11 19:46:37,463 - >>> 37291 (61.39%) nodes in the Disconnected
+2019-08-11 19:46:37,463 -     33592 scc in the Disconnected
+2019-08-11 19:46:37,463 -     30397572 (10.50%) views in the Disconnected
+2019-08-11 19:46:38,775 - >>> Graph embedding @ cutoff 6 has been loaded!
+2019-08-11 19:46:38,775 - >>> 57617 nodes and 151106 edges in the graph
+2019-08-11 19:46:38,775 -     289477889 views throughout the graph
+2019-08-11 19:46:39,052 - >>> 1124 (1.85%) nodes in the largest SCC
+2019-08-11 19:46:39,052 -     115176808 (39.79%) views in the largest SCC
+2019-08-11 19:46:40,661 - >>> 25866 (42.58%) nodes in the IN component
+2019-08-11 19:46:40,661 -     20296 scc in the IN component
+2019-08-11 19:46:40,671 -     130243251 (44.99%) views in the IN component
+2019-08-11 19:46:48,751 - >>> 35 (0.06%) nodes in the OUT component
+2019-08-11 19:46:48,751 -     25 scc in the OUT component
+2019-08-11 19:46:48,751 -     4117392 (1.42%) views in the OUT component
+2019-08-11 19:53:05,173 - >>> 4999 (8.23%) nodes in the Tendrils
+2019-08-11 19:53:05,173 -     3606 scc in the Tendrils
+2019-08-11 19:53:05,177 -     23231699 (8.03%) views in the Tendrils
+2019-08-11 19:53:05,177 - >>> 28716 (47.28%) nodes in the Disconnected
+2019-08-11 19:53:05,177 -     25972 scc in the Disconnected
+2019-08-11 19:53:05,177 -     16708739 (5.77%) views in the Disconnected
+2019-08-11 19:53:06,421 - >>> Graph embedding @ cutoff 7 has been loaded!
+2019-08-11 19:53:06,421 - >>> 58345 nodes and 173647 edges in the graph
+2019-08-11 19:53:06,421 -     289477889 views throughout the graph
+2019-08-11 19:53:06,833 - >>> 1822 (3.00%) nodes in the largest SCC
+2019-08-11 19:53:06,834 -     140043888 (48.38%) views in the largest SCC
+2019-08-11 19:53:09,437 - >>> 31962 (52.62%) nodes in the IN component
+2019-08-11 19:53:09,438 -     24861 scc in the IN component
+2019-08-11 19:53:09,450 -     116174913 (40.13%) views in the IN component
+2019-08-11 19:53:21,070 - >>> 47 (0.08%) nodes in the OUT component
+2019-08-11 19:53:21,071 -     33 scc in the OUT component
+2019-08-11 19:53:21,071 -     9348589 (3.23%) views in the OUT component
+2019-08-11 19:59:41,868 - >>> 4680 (7.70%) nodes in the Tendrils
+2019-08-11 19:59:41,868 -     3497 scc in the Tendrils
+2019-08-11 19:59:41,871 -     14769852 (5.10%) views in the Tendrils
+2019-08-11 19:59:41,871 - >>> 22229 (36.60%) nodes in the Disconnected
+2019-08-11 19:59:41,871 -     20069 scc in the Disconnected
+2019-08-11 19:59:41,871 -     9140647 (3.16%) views in the Disconnected
+2019-08-11 19:59:43,213 - >>> Graph embedding @ cutoff 8 has been loaded!
+2019-08-11 19:59:43,213 - >>> 58853 nodes and 196349 edges in the graph
+2019-08-11 19:59:43,213 -     289477889 views throughout the graph
+2019-08-11 19:59:43,526 - >>> 2509 (4.13%) nodes in the largest SCC
+2019-08-11 19:59:43,528 -     154334298 (53.31%) views in the largest SCC
+2019-08-11 19:59:47,181 - >>> 36123 (59.47%) nodes in the IN component
+2019-08-11 19:59:47,181 -     27613 scc in the IN component
+2019-08-11 19:59:47,194 -     107606249 (37.17%) views in the IN component
+2019-08-11 20:00:01,267 - >>> 53 (0.09%) nodes in the OUT component
+2019-08-11 20:00:01,267 -     41 scc in the OUT component
+2019-08-11 20:00:01,267 -     9032372 (3.12%) views in the OUT component
+2019-08-11 20:06:24,125 - >>> 4101 (6.75%) nodes in the Tendrils
+2019-08-11 20:06:24,125 -     3091 scc in the Tendrils
+2019-08-11 20:06:24,129 -     12008572 (4.15%) views in the Tendrils
+2019-08-11 20:06:24,129 - >>> 17954 (29.56%) nodes in the Disconnected
+2019-08-11 20:06:24,129 -     16255 scc in the Disconnected
+2019-08-11 20:06:24,129 -     6496398 (2.24%) views in the Disconnected
+2019-08-11 20:06:25,641 - >>> Graph embedding @ cutoff 9 has been loaded!
+2019-08-11 20:06:25,642 - >>> 59252 nodes and 219046 edges in the graph
+2019-08-11 20:06:25,642 -     289477889 views throughout the graph
+2019-08-11 20:06:25,943 - >>> 3212 (5.29%) nodes in the largest SCC
+2019-08-11 20:06:25,946 -     178808998 (61.77%) views in the largest SCC
+2019-08-11 20:06:30,607 - >>> 39039 (64.27%) nodes in the IN component
+2019-08-11 20:06:30,607 -     29425 scc in the IN component
+2019-08-11 20:06:30,624 -     88166273 (30.46%) views in the IN component
+2019-08-11 20:06:47,975 - >>> 76 (0.13%) nodes in the OUT component
+2019-08-11 20:06:47,975 -     58 scc in the OUT component
+2019-08-11 20:06:47,975 -     9275770 (3.20%) views in the OUT component
+2019-08-11 20:12:50,949 - >>> 3722 (6.13%) nodes in the Tendrils
+2019-08-11 20:12:50,950 -     2785 scc in the Tendrils
+2019-08-11 20:12:50,953 -     8790147 (3.04%) views in the Tendrils
+2019-08-11 20:12:50,953 - >>> 14691 (24.19%) nodes in the Disconnected
+2019-08-11 20:12:50,953 -     13216 scc in the Disconnected
+2019-08-11 20:12:50,953 -     4436701 (1.53%) views in the Disconnected
+2019-08-11 20:12:53,181 - >>> Graph embedding @ cutoff 10 has been loaded!
+2019-08-11 20:12:53,181 - >>> 59550 nodes and 242260 edges in the graph
+2019-08-11 20:12:53,181 -     289477889 views throughout the graph
+2019-08-11 20:12:53,587 - >>> 4746 (7.81%) nodes in the largest SCC
+2019-08-11 20:12:53,590 -     198183778 (68.46%) views in the largest SCC
+2019-08-11 20:13:01,332 - >>> 41799 (68.82%) nodes in the IN component
+2019-08-11 20:13:01,332 -     31630 scc in the IN component
+2019-08-11 20:13:01,351 -     71693480 (24.77%) views in the IN component
+2019-08-11 20:13:45,142 - >>> 117 (0.19%) nodes in the OUT component
+2019-08-11 20:13:45,142 -     78 scc in the OUT component
+2019-08-11 20:13:45,142 -     10126871 (3.50%) views in the OUT component
+2019-08-11 20:20:27,905 - >>> 3283 (5.41%) nodes in the Tendrils
+2019-08-11 20:20:27,905 -     2471 scc in the Tendrils
+2019-08-11 20:20:27,907 -     7067499 (2.44%) views in the Tendrils
+2019-08-11 20:20:27,907 - >>> 10795 (17.77%) nodes in the Disconnected
+2019-08-11 20:20:27,907 -     9756 scc in the Disconnected
+2019-08-11 20:20:27,907 -     2406261 (0.83%) views in the Disconnected
+2019-08-11 20:20:29,840 - >>> Graph embedding @ cutoff 11 has been loaded!
+2019-08-11 20:20:29,840 - >>> 59783 nodes and 265329 edges in the graph
+2019-08-11 20:20:29,840 -     289477889 views throughout the graph
+2019-08-11 20:20:30,267 - >>> 6056 (9.97%) nodes in the largest SCC
+2019-08-11 20:20:30,271 -     208443219 (72.01%) views in the largest SCC
+2019-08-11 20:20:39,060 - >>> 43668 (71.89%) nodes in the IN component
+2019-08-11 20:20:39,061 -     32615 scc in the IN component
+2019-08-11 20:20:39,077 -     63653201 (21.99%) views in the IN component
+2019-08-11 20:21:19,619 - >>> 157 (0.26%) nodes in the OUT component
+2019-08-11 20:21:19,619 -     100 scc in the OUT component
+2019-08-11 20:21:19,619 -     10277487 (3.55%) views in the OUT component
+2019-08-11 20:26:08,357 - >>> 2685 (4.42%) nodes in the Tendrils
+2019-08-11 20:26:08,358 -     2139 scc in the Tendrils
+2019-08-11 20:26:08,360 -     5745445 (1.98%) views in the Tendrils
+2019-08-11 20:26:08,360 - >>> 8174 (13.46%) nodes in the Disconnected
+2019-08-11 20:26:08,360 -     7464 scc in the Disconnected
+2019-08-11 20:26:08,360 -     1358537 (0.47%) views in the Disconnected
+2019-08-11 20:26:10,229 - >>> Graph embedding @ cutoff 12 has been loaded!
+2019-08-11 20:26:10,229 - >>> 59939 nodes and 288652 edges in the graph
+2019-08-11 20:26:10,229 -     289477889 views throughout the graph
+2019-08-11 20:26:10,626 - >>> 7685 (12.65%) nodes in the largest SCC
+2019-08-11 20:26:10,631 -     219183904 (75.72%) views in the largest SCC
+2019-08-11 20:26:20,905 - >>> 44038 (72.50%) nodes in the IN component
+2019-08-11 20:26:20,905 -     32680 scc in the IN component
+2019-08-11 20:26:20,927 -     54016785 (18.66%) views in the IN component
+2019-08-11 20:27:08,348 - >>> 193 (0.32%) nodes in the OUT component
+2019-08-11 20:27:08,348 -     117 scc in the OUT component
+2019-08-11 20:27:08,349 -     10441440 (3.61%) views in the OUT component
+2019-08-11 20:31:32,839 - >>> 2384 (3.92%) nodes in the Tendrils
+2019-08-11 20:31:32,839 -     1948 scc in the Tendrils
+2019-08-11 20:31:32,841 -     4852135 (1.68%) views in the Tendrils
+2019-08-11 20:31:32,842 - >>> 6440 (10.60%) nodes in the Disconnected
+2019-08-11 20:31:32,842 -     5907 scc in the Disconnected
+2019-08-11 20:31:32,842 -     983625 (0.34%) views in the Disconnected
+2019-08-11 20:31:34,809 - >>> Graph embedding @ cutoff 13 has been loaded!
+2019-08-11 20:31:34,810 - >>> 60076 nodes and 312731 edges in the graph
+2019-08-11 20:31:34,810 -     289477889 views throughout the graph
+2019-08-11 20:31:35,292 - >>> 9336 (15.37%) nodes in the largest SCC
+2019-08-11 20:31:35,299 -     226423622 (78.22%) views in the largest SCC
+2019-08-11 20:31:48,288 - >>> 43843 (72.18%) nodes in the IN component
+2019-08-11 20:31:48,289 -     32135 scc in the IN component
+2019-08-11 20:31:48,306 -     47694662 (16.48%) views in the IN component
+2019-08-11 20:32:45,227 - >>> 222 (0.37%) nodes in the OUT component
+2019-08-11 20:32:45,227 -     128 scc in the OUT component
+2019-08-11 20:32:45,227 -     10529566 (3.64%) views in the OUT component
+2019-08-11 20:36:36,764 - >>> 2103 (3.46%) nodes in the Tendrils
+2019-08-11 20:36:36,764 -     1730 scc in the Tendrils
+2019-08-11 20:36:36,766 -     4122792 (1.42%) views in the Tendrils
+2019-08-11 20:36:36,766 - >>> 5236 (8.62%) nodes in the Disconnected
+2019-08-11 20:36:36,766 -     4774 scc in the Disconnected
+2019-08-11 20:36:36,767 -     707247 (0.24%) views in the Disconnected
+2019-08-11 20:36:38,626 - >>> Graph embedding @ cutoff 14 has been loaded!
+2019-08-11 20:36:38,626 - >>> 60175 nodes and 337353 edges in the graph
+2019-08-11 20:36:38,627 -     289477889 views throughout the graph
+2019-08-11 20:36:39,086 - >>> 12054 (19.85%) nodes in the largest SCC
+2019-08-11 20:36:39,092 -     233545499 (80.68%) views in the largest SCC
+2019-08-11 20:36:52,282 - >>> 42660 (70.23%) nodes in the IN component
+2019-08-11 20:36:52,282 -     31423 scc in the IN component
+2019-08-11 20:36:52,297 -     41366215 (14.29%) views in the IN component
+2019-08-11 20:37:45,983 - >>> 239 (0.39%) nodes in the OUT component
+2019-08-11 20:37:45,983 -     148 scc in the OUT component
+2019-08-11 20:37:45,983 -     10412926 (3.60%) views in the OUT component
+2019-08-11 20:40:27,576 - >>> 1802 (2.97%) nodes in the Tendrils
+2019-08-11 20:40:27,576 -     1472 scc in the Tendrils
+2019-08-11 20:40:27,577 -     3626527 (1.25%) views in the Tendrils
+2019-08-11 20:40:27,577 - >>> 3985 (6.56%) nodes in the Disconnected
+2019-08-11 20:40:27,577 -     3623 scc in the Disconnected
+2019-08-11 20:40:27,577 -     526722 (0.18%) views in the Disconnected
+2019-08-11 20:40:29,383 - >>> Graph embedding @ cutoff 15 has been loaded!
+2019-08-11 20:40:29,384 - >>> 60261 nodes and 363639 edges in the graph
+2019-08-11 20:40:29,384 -     289477889 views throughout the graph
+2019-08-11 20:40:29,824 - >>> 14036 (23.11%) nodes in the largest SCC
+2019-08-11 20:40:29,830 -     239097897 (82.60%) views in the largest SCC
+2019-08-11 20:40:43,226 - >>> 41634 (68.54%) nodes in the IN component
+2019-08-11 20:40:43,227 -     29997 scc in the IN component
+2019-08-11 20:40:43,245 -     36889640 (12.74%) views in the IN component
+2019-08-11 20:41:33,412 - >>> 212 (0.35%) nodes in the OUT component
+2019-08-11 20:41:33,412 -     131 scc in the OUT component
+2019-08-11 20:41:33,412 -     9834460 (3.40%) views in the OUT component
+2019-08-11 20:43:37,032 - >>> 1502 (2.47%) nodes in the Tendrils
+2019-08-11 20:43:37,032 -     1207 scc in the Tendrils
+2019-08-11 20:43:37,033 -     3259292 (1.13%) views in the Tendrils
+2019-08-11 20:43:37,033 - >>> 3356 (5.53%) nodes in the Disconnected
+2019-08-11 20:43:37,033 -     3013 scc in the Disconnected
+2019-08-11 20:43:37,033 -     396600 (0.14%) views in the Disconnected
+2019-08-11 20:43:38,716 - >>> Graph embedding @ cutoff 16 has been loaded!
+2019-08-11 20:43:38,716 - >>> 60316 nodes and 392490 edges in the graph
+2019-08-11 20:43:38,716 -     289477889 views throughout the graph
+2019-08-11 20:43:39,171 - >>> 15958 (26.27%) nodes in the largest SCC
+2019-08-11 20:43:39,176 -     246117665 (85.02%) views in the largest SCC
+2019-08-11 20:43:53,123 - >>> 40407 (66.52%) nodes in the IN component
+2019-08-11 20:43:53,124 -     28084 scc in the IN component
+2019-08-11 20:43:53,141 -     30296234 (10.47%) views in the IN component
+2019-08-11 20:44:43,448 - >>> 222 (0.37%) nodes in the OUT component
+2019-08-11 20:44:43,448 -     126 scc in the OUT component
+2019-08-11 20:44:43,448 -     9789359 (3.38%) views in the OUT component
+2019-08-11 20:46:29,722 - >>> 1290 (2.12%) nodes in the Tendrils
+2019-08-11 20:46:29,722 -     1047 scc in the Tendrils
+2019-08-11 20:46:29,723 -     2955603 (1.02%) views in the Tendrils
+2019-08-11 20:46:29,723 - >>> 2863 (4.71%) nodes in the Disconnected
+2019-08-11 20:46:29,723 -     2515 scc in the Disconnected
+2019-08-11 20:46:29,723 -     319028 (0.11%) views in the Disconnected
+2019-08-11 20:46:31,653 - >>> Graph embedding @ cutoff 17 has been loaded!
+2019-08-11 20:46:31,654 - >>> 60361 nodes and 417998 edges in the graph
+2019-08-11 20:46:31,654 -     289477889 views throughout the graph
+2019-08-11 20:46:32,171 - >>> 17602 (28.98%) nodes in the largest SCC
+2019-08-11 20:46:32,176 -     254985044 (88.08%) views in the largest SCC
+2019-08-11 20:46:47,322 - >>> 39224 (64.58%) nodes in the IN component
+2019-08-11 20:46:47,322 -     26887 scc in the IN component
+2019-08-11 20:46:47,338 -     29750560 (10.28%) views in the IN component
+2019-08-11 20:47:41,082 - >>> 223 (0.37%) nodes in the OUT component
+2019-08-11 20:47:41,082 -     124 scc in the OUT component
+2019-08-11 20:47:41,082 -     3886065 (1.34%) views in the OUT component
+2019-08-11 20:49:30,134 - >>> 1192 (1.96%) nodes in the Tendrils
+2019-08-11 20:49:30,134 -     944 scc in the Tendrils
+2019-08-11 20:49:30,135 -     590848 (0.20%) views in the Tendrils
+2019-08-11 20:49:30,135 - >>> 2499 (4.11%) nodes in the Disconnected
+2019-08-11 20:49:30,135 -     2205 scc in the Disconnected
+2019-08-11 20:49:30,135 -     265372 (0.09%) views in the Disconnected
+2019-08-11 20:49:32,139 - >>> Graph embedding @ cutoff 18 has been loaded!
+2019-08-11 20:49:32,139 - >>> 60406 nodes and 443145 edges in the graph
+2019-08-11 20:49:32,139 -     289477889 views throughout the graph
+2019-08-11 20:49:32,659 - >>> 19642 (32.34%) nodes in the largest SCC
+2019-08-11 20:49:32,669 -     261555431 (90.35%) views in the largest SCC
+2019-08-11 20:49:49,992 - >>> 37944 (62.47%) nodes in the IN component
+2019-08-11 20:49:49,992 -     26079 scc in the IN component
+2019-08-11 20:49:50,019 -     26835926 (9.27%) views in the IN component
+2019-08-11 20:50:45,853 - >>> 123 (0.20%) nodes in the OUT component
+2019-08-11 20:50:45,853 -     88 scc in the OUT component
+2019-08-11 20:50:45,854 -     561467 (0.19%) views in the OUT component
+2019-08-11 20:52:12,324 - >>> 880 (1.45%) nodes in the Tendrils
+2019-08-11 20:52:12,324 -     697 scc in the Tendrils
+2019-08-11 20:52:12,325 -     299651 (0.10%) views in the Tendrils
+2019-08-11 20:52:12,325 - >>> 2151 (3.54%) nodes in the Disconnected
+2019-08-11 20:52:12,325 -     1874 scc in the Disconnected
+2019-08-11 20:52:12,325 -     225414 (0.08%) views in the Disconnected
+2019-08-11 20:52:14,382 - >>> Graph embedding @ cutoff 19 has been loaded!
+2019-08-11 20:52:14,382 - >>> 60433 nodes and 467668 edges in the graph
+2019-08-11 20:52:14,382 -     289477889 views throughout the graph
+2019-08-11 20:52:14,948 - >>> 21613 (35.58%) nodes in the largest SCC
+2019-08-11 20:52:14,959 -     264677766 (91.43%) views in the largest SCC
+2019-08-11 20:52:36,955 - >>> 36315 (59.79%) nodes in the IN component
+2019-08-11 20:52:36,955 -     25079 scc in the IN component
+2019-08-11 20:52:36,973 -     23784773 (8.22%) views in the IN component
+2019-08-11 20:53:29,549 - >>> 120 (0.20%) nodes in the OUT component
+2019-08-11 20:53:29,549 -     94 scc in the OUT component
+2019-08-11 20:53:29,549 -     561288 (0.19%) views in the OUT component
+2019-08-11 20:54:44,119 - >>> 765 (1.26%) nodes in the Tendrils
+2019-08-11 20:54:44,120 -     603 scc in the Tendrils
+2019-08-11 20:54:44,121 -     241582 (0.08%) views in the Tendrils
+2019-08-11 20:54:44,121 - >>> 1927 (3.17%) nodes in the Disconnected
+2019-08-11 20:54:44,121 -     1669 scc in the Disconnected
+2019-08-11 20:54:44,121 -     212480 (0.07%) views in the Disconnected
+2019-08-11 20:54:46,281 - >>> Graph embedding @ cutoff 20 has been loaded!
+2019-08-11 20:54:46,281 - >>> 60464 nodes and 491637 edges in the graph
+2019-08-11 20:54:46,282 -     289477889 views throughout the graph
+2019-08-11 20:54:46,976 - >>> 23056 (37.96%) nodes in the largest SCC
+2019-08-11 20:54:46,995 -     268242071 (92.66%) views in the largest SCC
+2019-08-11 20:55:11,655 - >>> 35107 (57.80%) nodes in the IN component
+2019-08-11 20:55:11,655 -     24148 scc in the IN component
+2019-08-11 20:55:11,669 -     20326380 (7.02%) views in the IN component
+2019-08-11 20:56:01,511 - >>> 130 (0.21%) nodes in the OUT component
+2019-08-11 20:56:01,512 -     91 scc in the OUT component
+2019-08-11 20:56:01,512 -     502485 (0.17%) views in the OUT component
+2019-08-11 20:57:05,022 - >>> 686 (1.13%) nodes in the Tendrils
+2019-08-11 20:57:05,022 -     543 scc in the Tendrils
+2019-08-11 20:57:05,022 -     218222 (0.08%) views in the Tendrils
+2019-08-11 20:57:05,023 - >>> 1761 (2.90%) nodes in the Disconnected
+2019-08-11 20:57:05,023 -     1516 scc in the Disconnected
+2019-08-11 20:57:05,023 -     188731 (0.07%) views in the Disconnected
+2019-08-11 20:57:07,068 - >>> Graph embedding @ cutoff 21 has been loaded!
+2019-08-11 20:57:07,068 - >>> 60486 nodes and 515735 edges in the graph
+2019-08-11 20:57:07,068 -     289477889 views throughout the graph
+2019-08-11 20:57:07,666 - >>> 24466 (40.28%) nodes in the largest SCC
+2019-08-11 20:57:07,676 -     270223904 (93.35%) views in the largest SCC
+2019-08-11 20:57:26,007 - >>> 33946 (55.89%) nodes in the IN component
+2019-08-11 20:57:26,008 -     23188 scc in the IN component
+2019-08-11 20:57:26,025 -     18417422 (6.36%) views in the IN component
+2019-08-11 20:58:15,147 - >>> 130 (0.21%) nodes in the OUT component
+2019-08-11 20:58:15,147 -     92 scc in the OUT component
+2019-08-11 20:58:15,148 -     473628 (0.16%) views in the OUT component
+2019-08-11 20:59:10,016 - >>> 624 (1.03%) nodes in the Tendrils
+2019-08-11 20:59:10,016 -     489 scc in the Tendrils
+2019-08-11 20:59:10,017 -     207448 (0.07%) views in the Tendrils
+2019-08-11 20:59:10,017 - >>> 1574 (2.59%) nodes in the Disconnected
+2019-08-11 20:59:10,017 -     1370 scc in the Disconnected
+2019-08-11 20:59:10,017 -     155487 (0.05%) views in the Disconnected
+2019-08-11 20:59:11,901 - >>> Graph embedding @ cutoff 22 has been loaded!
+2019-08-11 20:59:11,901 - >>> 60509 nodes and 539494 edges in the graph
+2019-08-11 20:59:11,901 -     289477889 views throughout the graph
+2019-08-11 20:59:12,465 - >>> 25566 (42.09%) nodes in the largest SCC
+2019-08-11 20:59:12,475 -     271633476 (93.84%) views in the largest SCC
+2019-08-11 20:59:30,074 - >>> 33042 (54.40%) nodes in the IN component
+2019-08-11 20:59:30,074 -     22300 scc in the IN component
+2019-08-11 20:59:30,086 -     17033204 (5.88%) views in the IN component
+2019-08-11 21:00:15,094 - >>> 123 (0.20%) nodes in the OUT component
+2019-08-11 21:00:15,094 -     96 scc in the OUT component
+2019-08-11 21:00:15,094 -     474151 (0.16%) views in the OUT component
+2019-08-11 21:01:11,274 - >>> 586 (0.96%) nodes in the Tendrils
+2019-08-11 21:01:11,274 -     453 scc in the Tendrils
+2019-08-11 21:01:11,275 -     189092 (0.07%) views in the Tendrils
+2019-08-11 21:01:11,275 - >>> 1423 (2.34%) nodes in the Disconnected
+2019-08-11 21:01:11,275 -     1241 scc in the Disconnected
+2019-08-11 21:01:11,275 -     147966 (0.05%) views in the Disconnected
+2019-08-11 21:01:13,503 - >>> Graph embedding @ cutoff 23 has been loaded!
+2019-08-11 21:01:13,504 - >>> 60534 nodes and 563321 edges in the graph
+2019-08-11 21:01:13,504 -     289477889 views throughout the graph
+2019-08-11 21:01:14,232 - >>> 27042 (44.52%) nodes in the largest SCC
+2019-08-11 21:01:14,243 -     272951929 (94.29%) views in the largest SCC
+2019-08-11 21:01:37,611 - >>> 31770 (52.30%) nodes in the IN component
+2019-08-11 21:01:37,611 -     21478 scc in the IN component
+2019-08-11 21:01:37,622 -     15880583 (5.49%) views in the IN component
+2019-08-11 21:02:27,579 - >>> 123 (0.20%) nodes in the OUT component
+2019-08-11 21:02:27,580 -     92 scc in the OUT component
+2019-08-11 21:02:27,580 -     365324 (0.13%) views in the OUT component
+2019-08-11 21:03:15,785 - >>> 513 (0.84%) nodes in the Tendrils
+2019-08-11 21:03:15,785 -     398 scc in the Tendrils
+2019-08-11 21:03:15,785 -     153163 (0.05%) views in the Tendrils
+2019-08-11 21:03:15,786 - >>> 1292 (2.13%) nodes in the Disconnected
+2019-08-11 21:03:15,786 -     1120 scc in the Disconnected
+2019-08-11 21:03:15,786 -     126890 (0.04%) views in the Disconnected
+2019-08-11 21:03:17,932 - >>> Graph embedding @ cutoff 24 has been loaded!
+2019-08-11 21:03:17,932 - >>> 60552 nodes and 586992 edges in the graph
+2019-08-11 21:03:17,932 -     289477889 views throughout the graph
+2019-08-11 21:03:18,630 - >>> 28374 (46.71%) nodes in the largest SCC
+2019-08-11 21:03:18,644 -     273952412 (94.64%) views in the largest SCC
+2019-08-11 21:03:44,001 - >>> 30584 (50.35%) nodes in the IN component
+2019-08-11 21:03:44,002 -     20608 scc in the IN component
+2019-08-11 21:03:44,017 -     14915799 (5.15%) views in the IN component
+2019-08-11 21:04:33,627 - >>> 122 (0.20%) nodes in the OUT component
+2019-08-11 21:04:33,627 -     91 scc in the OUT component
+2019-08-11 21:04:33,627 -     347247 (0.12%) views in the OUT component
+2019-08-11 21:05:16,873 - >>> 475 (0.78%) nodes in the Tendrils
+2019-08-11 21:05:16,873 -     372 scc in the Tendrils
+2019-08-11 21:05:16,873 -     143659 (0.05%) views in the Tendrils
+2019-08-11 21:05:16,873 - >>> 1185 (1.95%) nodes in the Disconnected
+2019-08-11 21:05:16,873 -     1013 scc in the Disconnected
+2019-08-11 21:05:16,873 -     118772 (0.04%) views in the Disconnected
+2019-08-11 21:05:19,044 - >>> Graph embedding @ cutoff 25 has been loaded!
+2019-08-11 21:05:19,044 - >>> 60561 nodes and 610947 edges in the graph
+2019-08-11 21:05:19,045 -     289477889 views throughout the graph
+2019-08-11 21:05:19,879 - >>> 29731 (48.95%) nodes in the largest SCC
+2019-08-11 21:05:19,892 -     275444119 (95.15%) views in the largest SCC
+2019-08-11 21:05:42,503 - >>> 29391 (48.39%) nodes in the IN component
+2019-08-11 21:05:42,503 -     19806 scc in the IN component
+2019-08-11 21:05:42,514 -     13469601 (4.65%) views in the IN component
+2019-08-11 21:06:25,771 - >>> 124 (0.20%) nodes in the OUT component
+2019-08-11 21:06:25,771 -     90 scc in the OUT component
+2019-08-11 21:06:25,772 -     327587 (0.11%) views in the OUT component
+2019-08-11 21:06:59,565 - >>> 447 (0.74%) nodes in the Tendrils
+2019-08-11 21:06:59,565 -     345 scc in the Tendrils
+2019-08-11 21:06:59,565 -     140540 (0.05%) views in the Tendrils
+2019-08-11 21:06:59,565 - >>> 1047 (1.72%) nodes in the Disconnected
+2019-08-11 21:06:59,566 -     896 scc in the Disconnected
+2019-08-11 21:06:59,566 -     96042 (0.03%) views in the Disconnected
+2019-08-11 21:07:01,679 - >>> Graph embedding @ cutoff 26 has been loaded!
+2019-08-11 21:07:01,679 - >>> 60566 nodes and 634778 edges in the graph
+2019-08-11 21:07:01,679 -     289477889 views throughout the graph
+2019-08-11 21:07:02,368 - >>> 31026 (51.08%) nodes in the largest SCC
+2019-08-11 21:07:02,379 -     278408783 (96.18%) views in the largest SCC
+2019-08-11 21:07:22,286 - >>> 28187 (46.41%) nodes in the IN component
+2019-08-11 21:07:22,286 -     18921 scc in the IN component
+2019-08-11 21:07:22,299 -     10531253 (3.64%) views in the IN component
+2019-08-11 21:08:05,677 - >>> 143 (0.24%) nodes in the OUT component
+2019-08-11 21:08:05,678 -     94 scc in the OUT component
+2019-08-11 21:08:05,678 -     335799 (0.12%) views in the OUT component
+2019-08-11 21:08:37,060 - >>> 405 (0.67%) nodes in the Tendrils
+2019-08-11 21:08:37,060 -     319 scc in the Tendrils
+2019-08-11 21:08:37,060 -     108528 (0.04%) views in the Tendrils
+2019-08-11 21:08:37,060 - >>> 979 (1.61%) nodes in the Disconnected
+2019-08-11 21:08:37,060 -     830 scc in the Disconnected
+2019-08-11 21:08:37,060 -     93526 (0.03%) views in the Disconnected
+2019-08-11 21:08:39,324 - >>> Graph embedding @ cutoff 27 has been loaded!
+2019-08-11 21:08:39,324 - >>> 60574 nodes and 658642 edges in the graph
+2019-08-11 21:08:39,324 -     289477889 views throughout the graph
+2019-08-11 21:08:40,044 - >>> 32384 (53.32%) nodes in the largest SCC
+2019-08-11 21:08:40,059 -     279408407 (96.52%) views in the largest SCC
+2019-08-11 21:09:01,027 - >>> 26918 (44.32%) nodes in the IN component
+2019-08-11 21:09:01,027 -     18106 scc in the IN component
+2019-08-11 21:09:01,037 -     9556315 (3.30%) views in the IN component
+2019-08-11 21:09:42,550 - >>> 151 (0.25%) nodes in the OUT component
+2019-08-11 21:09:42,550 -     100 scc in the OUT component
+2019-08-11 21:09:42,550 -     341331 (0.12%) views in the OUT component
+2019-08-11 21:10:11,877 - >>> 398 (0.66%) nodes in the Tendrils
+2019-08-11 21:10:11,877 -     295 scc in the Tendrils
+2019-08-11 21:10:11,877 -     105491 (0.04%) views in the Tendrils
+2019-08-11 21:10:11,877 - >>> 889 (1.46%) nodes in the Disconnected
+2019-08-11 21:10:11,877 -     756 scc in the Disconnected
+2019-08-11 21:10:11,877 -     66345 (0.02%) views in the Disconnected
+2019-08-11 21:10:13,946 - >>> Graph embedding @ cutoff 28 has been loaded!
+2019-08-11 21:10:13,946 - >>> 60584 nodes and 682596 edges in the graph
+2019-08-11 21:10:13,946 -     289477889 views throughout the graph
+2019-08-11 21:10:14,674 - >>> 33317 (54.85%) nodes in the largest SCC
+2019-08-11 21:10:14,690 -     280063484 (96.75%) views in the largest SCC
+2019-08-11 21:10:37,778 - >>> 26078 (42.93%) nodes in the IN component
+2019-08-11 21:10:37,779 -     17422 scc in the IN component
+2019-08-11 21:10:37,790 -     8915983 (3.08%) views in the IN component
+2019-08-11 21:11:21,053 - >>> 179 (0.29%) nodes in the OUT component
+2019-08-11 21:11:21,054 -     107 scc in the OUT component
+2019-08-11 21:11:21,054 -     359878 (0.12%) views in the OUT component
+2019-08-11 21:11:46,701 - >>> 339 (0.56%) nodes in the Tendrils
+2019-08-11 21:11:46,701 -     268 scc in the Tendrils
+2019-08-11 21:11:46,701 -     87928 (0.03%) views in the Tendrils
+2019-08-11 21:11:46,701 - >>> 827 (1.36%) nodes in the Disconnected
+2019-08-11 21:11:46,701 -     694 scc in the Disconnected
+2019-08-11 21:11:46,701 -     50616 (0.02%) views in the Disconnected
+2019-08-11 21:11:48,954 - >>> Graph embedding @ cutoff 29 has been loaded!
+2019-08-11 21:11:48,954 - >>> 60594 nodes and 707036 edges in the graph
+2019-08-11 21:11:48,954 -     289477889 views throughout the graph
+2019-08-11 21:11:49,713 - >>> 34617 (56.99%) nodes in the largest SCC
+2019-08-11 21:11:49,728 -     280860831 (97.02%) views in the largest SCC
+2019-08-11 21:12:10,521 - >>> 24898 (40.99%) nodes in the IN component
+2019-08-11 21:12:10,521 -     16627 scc in the IN component
+2019-08-11 21:12:10,531 -     8147186 (2.81%) views in the IN component
+2019-08-11 21:12:50,941 - >>> 164 (0.27%) nodes in the OUT component
+2019-08-11 21:12:50,941 -     105 scc in the OUT component
+2019-08-11 21:12:50,942 -     345794 (0.12%) views in the OUT component
+2019-08-11 21:13:13,183 - >>> 306 (0.50%) nodes in the Tendrils
+2019-08-11 21:13:13,183 -     242 scc in the Tendrils
+2019-08-11 21:13:13,184 -     74845 (0.03%) views in the Tendrils
+2019-08-11 21:13:13,184 - >>> 755 (1.24%) nodes in the Disconnected
+2019-08-11 21:13:13,184 -     627 scc in the Disconnected
+2019-08-11 21:13:13,184 -     49233 (0.02%) views in the Disconnected
+2019-08-11 21:13:15,484 - >>> Graph embedding @ cutoff 30 has been loaded!
+2019-08-11 21:13:15,484 - >>> 60599 nodes and 731487 edges in the graph
+2019-08-11 21:13:15,484 -     289477889 views throughout the graph
+2019-08-11 21:13:16,338 - >>> 35735 (58.83%) nodes in the largest SCC
+2019-08-11 21:13:16,359 -     281485254 (97.24%) views in the largest SCC
+2019-08-11 21:13:37,838 - >>> 23866 (39.29%) nodes in the IN component
+2019-08-11 21:13:37,838 -     15916 scc in the IN component
+2019-08-11 21:13:37,851 -     7572632 (2.62%) views in the IN component
+2019-08-11 21:14:15,958 - >>> 152 (0.25%) nodes in the OUT component
+2019-08-11 21:14:15,958 -     102 scc in the OUT component
+2019-08-11 21:14:15,958 -     313607 (0.11%) views in the OUT component
+2019-08-11 21:14:37,270 - >>> 272 (0.45%) nodes in the Tendrils
+2019-08-11 21:14:37,270 -     221 scc in the Tendrils
+2019-08-11 21:14:37,270 -     59831 (0.02%) views in the Tendrils
+2019-08-11 21:14:37,270 - >>> 715 (1.18%) nodes in the Disconnected
+2019-08-11 21:14:37,270 -     589 scc in the Disconnected
+2019-08-11 21:14:37,270 -     46565 (0.02%) views in the Disconnected
+2019-08-11 21:14:39,520 - >>> Graph embedding @ cutoff 31 has been loaded!
+2019-08-11 21:14:39,520 - >>> 60601 nodes and 756603 edges in the graph
+2019-08-11 21:14:39,520 -     289477889 views throughout the graph
+2019-08-11 21:14:40,345 - >>> 36458 (60.02%) nodes in the largest SCC
+2019-08-11 21:14:40,361 -     281925067 (97.39%) views in the largest SCC
+2019-08-11 21:15:04,276 - >>> 23195 (38.19%) nodes in the IN component
+2019-08-11 21:15:04,276 -     15212 scc in the IN component
+2019-08-11 21:15:04,287 -     7149268 (2.47%) views in the IN component
+2019-08-11 21:15:43,296 - >>> 150 (0.25%) nodes in the OUT component
+2019-08-11 21:15:43,296 -     99 scc in the OUT component
+2019-08-11 21:15:43,297 -     307946 (0.11%) views in the OUT component
+2019-08-11 21:16:02,488 - >>> 264 (0.43%) nodes in the Tendrils
+2019-08-11 21:16:02,488 -     211 scc in the Tendrils
+2019-08-11 21:16:02,488 -     52221 (0.02%) views in the Tendrils
+2019-08-11 21:16:02,488 - >>> 673 (1.11%) nodes in the Disconnected
+2019-08-11 21:16:02,488 -     551 scc in the Disconnected
+2019-08-11 21:16:02,489 -     43387 (0.01%) views in the Disconnected
+2019-08-11 21:16:04,692 - >>> Graph embedding @ cutoff 32 has been loaded!
+2019-08-11 21:16:04,692 - >>> 60609 nodes and 781074 edges in the graph
+2019-08-11 21:16:04,692 -     289477889 views throughout the graph
+2019-08-11 21:16:05,561 - >>> 37075 (61.04%) nodes in the largest SCC
+2019-08-11 21:16:05,578 -     282388013 (97.55%) views in the largest SCC
+2019-08-11 21:16:29,060 - >>> 22603 (37.21%) nodes in the IN component
+2019-08-11 21:16:29,060 -     14665 scc in the IN component
+2019-08-11 21:16:29,070 -     6688383 (2.31%) views in the IN component
+2019-08-11 21:17:07,246 - >>> 155 (0.26%) nodes in the OUT component
+2019-08-11 21:17:07,246 -     102 scc in the OUT component
+2019-08-11 21:17:07,246 -     310312 (0.11%) views in the OUT component
+2019-08-11 21:17:25,110 - >>> 257 (0.42%) nodes in the Tendrils
+2019-08-11 21:17:25,110 -     205 scc in the Tendrils
+2019-08-11 21:17:25,111 -     49440 (0.02%) views in the Tendrils
+2019-08-11 21:17:25,111 - >>> 650 (1.07%) nodes in the Disconnected
+2019-08-11 21:17:25,111 -     526 scc in the Disconnected
+2019-08-11 21:17:25,111 -     41741 (0.01%) views in the Disconnected
+2019-08-11 21:17:27,392 - >>> Graph embedding @ cutoff 33 has been loaded!
+2019-08-11 21:17:27,392 - >>> 60615 nodes and 805513 edges in the graph
+2019-08-11 21:17:27,392 -     289477889 views throughout the graph
+2019-08-11 21:17:28,306 - >>> 37958 (62.49%) nodes in the largest SCC
+2019-08-11 21:17:28,324 -     282892602 (97.73%) views in the largest SCC
+2019-08-11 21:17:46,849 - >>> 21765 (35.83%) nodes in the IN component
+2019-08-11 21:17:46,849 -     14058 scc in the IN component
+2019-08-11 21:17:46,859 -     6194020 (2.14%) views in the IN component
+2019-08-11 21:18:23,469 - >>> 148 (0.24%) nodes in the OUT component
+2019-08-11 21:18:23,470 -     97 scc in the OUT component
+2019-08-11 21:18:23,470 -     301044 (0.10%) views in the OUT component
+2019-08-11 21:18:40,573 - >>> 248 (0.41%) nodes in the Tendrils
+2019-08-11 21:18:40,573 -     195 scc in the Tendrils
+2019-08-11 21:18:40,573 -     48912 (0.02%) views in the Tendrils
+2019-08-11 21:18:40,574 - >>> 621 (1.02%) nodes in the Disconnected
+2019-08-11 21:18:40,574 -     498 scc in the Disconnected
+2019-08-11 21:18:40,574 -     41311 (0.01%) views in the Disconnected
+2019-08-11 21:18:42,897 - >>> Graph embedding @ cutoff 34 has been loaded!
+2019-08-11 21:18:42,897 - >>> 60620 nodes and 829263 edges in the graph
+2019-08-11 21:18:42,897 -     289477889 views throughout the graph
+2019-08-11 21:18:43,774 - >>> 38515 (63.41%) nodes in the largest SCC
+2019-08-11 21:18:43,791 -     283256557 (97.85%) views in the largest SCC
+2019-08-11 21:19:05,669 - >>> 21257 (35.00%) nodes in the IN component
+2019-08-11 21:19:05,669 -     13582 scc in the IN component
+2019-08-11 21:19:05,679 -     5871436 (2.03%) views in the IN component
+2019-08-11 21:19:40,922 - >>> 152 (0.25%) nodes in the OUT component
+2019-08-11 21:19:40,922 -     97 scc in the OUT component
+2019-08-11 21:19:40,922 -     272514 (0.09%) views in the OUT component
+2019-08-11 21:19:55,186 - >>> 228 (0.38%) nodes in the Tendrils
+2019-08-11 21:19:55,186 -     182 scc in the Tendrils
+2019-08-11 21:19:55,187 -     38220 (0.01%) views in the Tendrils
+2019-08-11 21:19:55,187 - >>> 588 (0.97%) nodes in the Disconnected
+2019-08-11 21:19:55,187 -     468 scc in the Disconnected
+2019-08-11 21:19:55,187 -     39162 (0.01%) views in the Disconnected
+2019-08-11 21:19:57,334 - >>> Graph embedding @ cutoff 35 has been loaded!
+2019-08-11 21:19:57,335 - >>> 60628 nodes and 852769 edges in the graph
+2019-08-11 21:19:57,335 -     289477889 views throughout the graph
+2019-08-11 21:19:58,198 - >>> 39191 (64.52%) nodes in the largest SCC
+2019-08-11 21:19:58,214 -     283664283 (97.99%) views in the largest SCC
+2019-08-11 21:20:13,949 - >>> 20625 (33.96%) nodes in the IN component
+2019-08-11 21:20:13,949 -     13113 scc in the IN component
+2019-08-11 21:20:13,956 -     5490778 (1.90%) views in the IN component
+2019-08-11 21:20:44,348 - >>> 150 (0.25%) nodes in the OUT component
+2019-08-11 21:20:44,349 -     96 scc in the OUT component
+2019-08-11 21:20:44,349 -     254825 (0.09%) views in the OUT component
+2019-08-11 21:20:56,521 - >>> 210 (0.35%) nodes in the Tendrils
+2019-08-11 21:20:56,521 -     174 scc in the Tendrils
+2019-08-11 21:20:56,522 -     37445 (0.01%) views in the Tendrils
+2019-08-11 21:20:56,522 - >>> 564 (0.93%) nodes in the Disconnected
+2019-08-11 21:20:56,522 -     444 scc in the Disconnected
+2019-08-11 21:20:56,522 -     30558 (0.01%) views in the Disconnected
+2019-08-11 21:20:58,586 - >>> Graph embedding @ cutoff 36 has been loaded!
+2019-08-11 21:20:58,586 - >>> 60631 nodes and 876189 edges in the graph
+2019-08-11 21:20:58,586 -     289477889 views throughout the graph
+2019-08-11 21:20:59,414 - >>> 39804 (65.53%) nodes in the largest SCC
+2019-08-11 21:20:59,430 -     283922119 (98.08%) views in the largest SCC
+2019-08-11 21:21:14,107 - >>> 20037 (32.99%) nodes in the IN component
+2019-08-11 21:21:14,107 -     12634 scc in the IN component
+2019-08-11 21:21:14,114 -     5292154 (1.83%) views in the IN component
+2019-08-11 21:21:44,116 - >>> 149 (0.25%) nodes in the OUT component
+2019-08-11 21:21:44,116 -     94 scc in the OUT component
+2019-08-11 21:21:44,117 -     207437 (0.07%) views in the OUT component
+2019-08-11 21:21:55,250 - >>> 202 (0.33%) nodes in the Tendrils
+2019-08-11 21:21:55,250 -     167 scc in the Tendrils
+2019-08-11 21:21:55,250 -     25884 (0.01%) views in the Tendrils
+2019-08-11 21:21:55,250 - >>> 548 (0.90%) nodes in the Disconnected
+2019-08-11 21:21:55,250 -     425 scc in the Disconnected
+2019-08-11 21:21:55,250 -     30295 (0.01%) views in the Disconnected
+2019-08-11 21:21:57,315 - >>> Graph embedding @ cutoff 37 has been loaded!
+2019-08-11 21:21:57,316 - >>> 60631 nodes and 899119 edges in the graph
+2019-08-11 21:21:57,316 -     289477889 views throughout the graph
+2019-08-11 21:21:58,132 - >>> 40598 (66.84%) nodes in the largest SCC
+2019-08-11 21:21:58,144 -     284191543 (98.17%) views in the largest SCC
+2019-08-11 21:22:12,511 - >>> 19277 (31.74%) nodes in the IN component
+2019-08-11 21:22:12,511 -     12181 scc in the IN component
+2019-08-11 21:22:12,518 -     5033348 (1.74%) views in the IN component
+2019-08-11 21:22:42,049 - >>> 145 (0.24%) nodes in the OUT component
+2019-08-11 21:22:42,049 -     91 scc in the OUT component
+2019-08-11 21:22:42,050 -     203791 (0.07%) views in the OUT component
+2019-08-11 21:22:52,316 - >>> 187 (0.31%) nodes in the Tendrils
+2019-08-11 21:22:52,316 -     155 scc in the Tendrils
+2019-08-11 21:22:52,316 -     19121 (0.01%) views in the Tendrils
+2019-08-11 21:22:52,316 - >>> 533 (0.88%) nodes in the Disconnected
+2019-08-11 21:22:52,317 -     410 scc in the Disconnected
+2019-08-11 21:22:52,317 -     30086 (0.01%) views in the Disconnected
+2019-08-11 21:22:54,389 - >>> Graph embedding @ cutoff 38 has been loaded!
+2019-08-11 21:22:54,389 - >>> 60635 nodes and 921943 edges in the graph
+2019-08-11 21:22:54,389 -     289477889 views throughout the graph
+2019-08-11 21:22:55,264 - >>> 41189 (67.81%) nodes in the largest SCC
+2019-08-11 21:22:55,277 -     284529304 (98.29%) views in the largest SCC
+2019-08-11 21:23:09,513 - >>> 18713 (30.81%) nodes in the IN component
+2019-08-11 21:23:09,513 -     11743 scc in the IN component
+2019-08-11 21:23:09,521 -     4715129 (1.63%) views in the IN component
+2019-08-11 21:23:39,087 - >>> 143 (0.24%) nodes in the OUT component
+2019-08-11 21:23:39,087 -     89 scc in the OUT component
+2019-08-11 21:23:39,087 -     187032 (0.06%) views in the OUT component
+2019-08-11 21:23:49,172 - >>> 188 (0.31%) nodes in the Tendrils
+2019-08-11 21:23:49,172 -     147 scc in the Tendrils
+2019-08-11 21:23:49,172 -     17200 (0.01%) views in the Tendrils
+2019-08-11 21:23:49,172 - >>> 507 (0.83%) nodes in the Disconnected
+2019-08-11 21:23:49,172 -     396 scc in the Disconnected
+2019-08-11 21:23:49,172 -     29224 (0.01%) views in the Disconnected
+2019-08-11 21:23:51,287 - >>> Graph embedding @ cutoff 39 has been loaded!
+2019-08-11 21:23:51,288 - >>> 60638 nodes and 944729 edges in the graph
+2019-08-11 21:23:51,288 -     289477889 views throughout the graph
+2019-08-11 21:23:52,160 - >>> 41869 (68.93%) nodes in the largest SCC
+2019-08-11 21:23:52,178 -     284775775 (98.38%) views in the largest SCC
+2019-08-11 21:24:06,068 - >>> 18079 (29.76%) nodes in the IN component
+2019-08-11 21:24:06,068 -     11292 scc in the IN component
+2019-08-11 21:24:06,076 -     4474943 (1.55%) views in the IN component
+2019-08-11 21:24:34,187 - >>> 132 (0.22%) nodes in the OUT component
+2019-08-11 21:24:34,187 -     87 scc in the OUT component
+2019-08-11 21:24:34,187 -     181559 (0.06%) views in the OUT component
+2019-08-11 21:24:43,523 - >>> 178 (0.29%) nodes in the Tendrils
+2019-08-11 21:24:43,523 -     136 scc in the Tendrils
+2019-08-11 21:24:43,524 -     17164 (0.01%) views in the Tendrils
+2019-08-11 21:24:43,524 - >>> 482 (0.79%) nodes in the Disconnected
+2019-08-11 21:24:43,524 -     379 scc in the Disconnected
+2019-08-11 21:24:43,524 -     28448 (0.01%) views in the Disconnected
+2019-08-11 21:24:45,722 - >>> Graph embedding @ cutoff 40 has been loaded!
+2019-08-11 21:24:45,722 - >>> 60639 nodes and 967183 edges in the graph
+2019-08-11 21:24:45,722 -     289477889 views throughout the graph
+2019-08-11 21:24:46,672 - >>> 42378 (69.77%) nodes in the largest SCC
+2019-08-11 21:24:46,690 -     285064403 (98.48%) views in the largest SCC
+2019-08-11 21:24:59,702 - >>> 17596 (28.97%) nodes in the IN component
+2019-08-11 21:24:59,702 -     10903 scc in the IN component
+2019-08-11 21:24:59,710 -     4189348 (1.45%) views in the IN component
+2019-08-11 21:25:26,709 - >>> 132 (0.22%) nodes in the OUT component
+2019-08-11 21:25:26,709 -     86 scc in the OUT component
+2019-08-11 21:25:26,709 -     180881 (0.06%) views in the OUT component
+2019-08-11 21:25:35,036 - >>> 174 (0.29%) nodes in the Tendrils
+2019-08-11 21:25:35,036 -     131 scc in the Tendrils
+2019-08-11 21:25:35,036 -     15433 (0.01%) views in the Tendrils
+2019-08-11 21:25:35,036 - >>> 460 (0.76%) nodes in the Disconnected
+2019-08-11 21:25:35,036 -     359 scc in the Disconnected
+2019-08-11 21:25:35,037 -     27824 (0.01%) views in the Disconnected
+2019-08-11 21:25:37,153 - >>> Graph embedding @ cutoff 41 has been loaded!
+2019-08-11 21:25:37,153 - >>> 60640 nodes and 989444 edges in the graph
+2019-08-11 21:25:37,153 -     289477889 views throughout the graph
+2019-08-11 21:25:38,020 - >>> 43000 (70.79%) nodes in the largest SCC
+2019-08-11 21:25:38,035 -     285445224 (98.61%) views in the largest SCC
+2019-08-11 21:25:50,857 - >>> 17000 (27.99%) nodes in the IN component
+2019-08-11 21:25:50,857 -     10533 scc in the IN component
+2019-08-11 21:25:50,865 -     3846855 (1.33%) views in the IN component
+2019-08-11 21:26:18,075 - >>> 118 (0.19%) nodes in the OUT component
+2019-08-11 21:26:18,076 -     76 scc in the OUT component
+2019-08-11 21:26:18,076 -     142864 (0.05%) views in the OUT component
+2019-08-11 21:26:26,323 - >>> 169 (0.28%) nodes in the Tendrils
+2019-08-11 21:26:26,324 -     127 scc in the Tendrils
+2019-08-11 21:26:26,324 -     15320 (0.01%) views in the Tendrils
+2019-08-11 21:26:26,324 - >>> 453 (0.75%) nodes in the Disconnected
+2019-08-11 21:26:26,324 -     351 scc in the Disconnected
+2019-08-11 21:26:26,324 -     27626 (0.01%) views in the Disconnected
+2019-08-11 21:26:28,363 - >>> Graph embedding @ cutoff 42 has been loaded!
+2019-08-11 21:26:28,363 - >>> 60641 nodes and 1011389 edges in the graph
+2019-08-11 21:26:28,363 -     289477889 views throughout the graph
+2019-08-11 21:26:29,187 - >>> 43450 (71.53%) nodes in the largest SCC
+2019-08-11 21:26:29,204 -     285608226 (98.66%) views in the largest SCC
+2019-08-11 21:26:41,991 - >>> 16561 (27.27%) nodes in the IN component
+2019-08-11 21:26:41,991 -     10200 scc in the IN component
+2019-08-11 21:26:41,996 -     3684521 (1.27%) views in the IN component
+2019-08-11 21:27:08,942 - >>> 119 (0.20%) nodes in the OUT component
+2019-08-11 21:27:08,942 -     77 scc in the OUT component
+2019-08-11 21:27:08,942 -     144579 (0.05%) views in the OUT component
+2019-08-11 21:27:16,682 - >>> 162 (0.27%) nodes in the Tendrils
+2019-08-11 21:27:16,682 -     120 scc in the Tendrils
+2019-08-11 21:27:16,682 -     12950 (0.00%) views in the Tendrils
+2019-08-11 21:27:16,682 - >>> 448 (0.74%) nodes in the Disconnected
+2019-08-11 21:27:16,682 -     344 scc in the Disconnected
+2019-08-11 21:27:16,682 -     27613 (0.01%) views in the Disconnected
+2019-08-11 21:27:18,649 - >>> Graph embedding @ cutoff 43 has been loaded!
+2019-08-11 21:27:18,649 - >>> 60641 nodes and 1033263 edges in the graph
+2019-08-11 21:27:18,649 -     289477889 views throughout the graph
+2019-08-11 21:27:19,537 - >>> 43970 (72.39%) nodes in the largest SCC
+2019-08-11 21:27:19,550 -     285764840 (98.72%) views in the largest SCC
+2019-08-11 21:27:32,041 - >>> 16064 (26.45%) nodes in the IN component
+2019-08-11 21:27:32,041 -     9832 scc in the IN component
+2019-08-11 21:27:32,048 -     3528761 (1.22%) views in the IN component
+2019-08-11 21:27:59,140 - >>> 116 (0.19%) nodes in the OUT component
+2019-08-11 21:27:59,141 -     76 scc in the OUT component
+2019-08-11 21:27:59,141 -     144034 (0.05%) views in the OUT component
+2019-08-11 21:28:06,627 - >>> 161 (0.27%) nodes in the Tendrils
+2019-08-11 21:28:06,627 -     119 scc in the Tendrils
+2019-08-11 21:28:06,628 -     12889 (0.00%) views in the Tendrils
+2019-08-11 21:28:06,628 - >>> 429 (0.71%) nodes in the Disconnected
+2019-08-11 21:28:06,628 -     329 scc in the Disconnected
+2019-08-11 21:28:06,628 -     27365 (0.01%) views in the Disconnected
+2019-08-11 21:28:08,792 - >>> Graph embedding @ cutoff 44 has been loaded!
+2019-08-11 21:28:08,792 - >>> 60642 nodes and 1054766 edges in the graph
+2019-08-11 21:28:08,793 -     289477889 views throughout the graph
+2019-08-11 21:28:09,710 - >>> 44664 (73.53%) nodes in the largest SCC
+2019-08-11 21:28:09,728 -     285892071 (98.76%) views in the largest SCC
+2019-08-11 21:28:21,474 - >>> 15401 (25.36%) nodes in the IN component
+2019-08-11 21:28:21,474 -     9456 scc in the IN component
+2019-08-11 21:28:21,482 -     3403245 (1.18%) views in the IN component
+2019-08-11 21:28:47,839 - >>> 113 (0.19%) nodes in the OUT component
+2019-08-11 21:28:47,839 -     75 scc in the OUT component
+2019-08-11 21:28:47,839 -     143418 (0.05%) views in the OUT component
+2019-08-11 21:28:54,495 - >>> 157 (0.26%) nodes in the Tendrils
+2019-08-11 21:28:54,496 -     116 scc in the Tendrils
+2019-08-11 21:28:54,496 -     12720 (0.00%) views in the Tendrils
+2019-08-11 21:28:54,496 - >>> 405 (0.67%) nodes in the Disconnected
+2019-08-11 21:28:54,496 -     310 scc in the Disconnected
+2019-08-11 21:28:54,496 -     26435 (0.01%) views in the Disconnected
+2019-08-11 21:28:56,697 - >>> Graph embedding @ cutoff 45 has been loaded!
+2019-08-11 21:28:56,697 - >>> 60643 nodes and 1075863 edges in the graph
+2019-08-11 21:28:56,697 -     289477889 views throughout the graph
+2019-08-11 21:28:57,679 - >>> 45084 (74.22%) nodes in the largest SCC
+2019-08-11 21:28:57,695 -     286019570 (98.81%) views in the largest SCC
+2019-08-11 21:29:09,112 - >>> 15007 (24.71%) nodes in the IN component
+2019-08-11 21:29:09,112 -     9136 scc in the IN component
+2019-08-11 21:29:09,117 -     3322285 (1.15%) views in the IN component
+2019-08-11 21:29:34,272 - >>> 104 (0.17%) nodes in the OUT component
+2019-08-11 21:29:34,272 -     72 scc in the OUT component
+2019-08-11 21:29:34,273 -     100535 (0.03%) views in the OUT component
+2019-08-11 21:29:40,323 - >>> 162 (0.27%) nodes in the Tendrils
+2019-08-11 21:29:40,323 -     116 scc in the Tendrils
+2019-08-11 21:29:40,324 -     13491 (0.00%) views in the Tendrils
+2019-08-11 21:29:40,324 - >>> 383 (0.63%) nodes in the Disconnected
+2019-08-11 21:29:40,324 -     294 scc in the Disconnected
+2019-08-11 21:29:40,324 -     22008 (0.01%) views in the Disconnected
+2019-08-11 21:29:42,540 - >>> Graph embedding @ cutoff 46 has been loaded!
+2019-08-11 21:29:42,540 - >>> 60646 nodes and 1096527 edges in the graph
+2019-08-11 21:29:42,540 -     289477889 views throughout the graph
+2019-08-11 21:29:43,604 - >>> 45512 (74.93%) nodes in the largest SCC
+2019-08-11 21:29:43,619 -     286127910 (98.84%) views in the largest SCC
+2019-08-11 21:29:54,752 - >>> 14596 (24.03%) nodes in the IN component
+2019-08-11 21:29:54,752 -     8845 scc in the IN component
+2019-08-11 21:29:54,757 -     3215603 (1.11%) views in the IN component
+2019-08-11 21:30:19,616 - >>> 101 (0.17%) nodes in the OUT component
+2019-08-11 21:30:19,616 -     69 scc in the OUT component
+2019-08-11 21:30:19,616 -     99919 (0.03%) views in the OUT component
+2019-08-11 21:30:25,450 - >>> 162 (0.27%) nodes in the Tendrils
+2019-08-11 21:30:25,450 -     115 scc in the Tendrils
+2019-08-11 21:30:25,450 -     13719 (0.00%) views in the Tendrils
+2019-08-11 21:30:25,450 - >>> 369 (0.61%) nodes in the Disconnected
+2019-08-11 21:30:25,450 -     284 scc in the Disconnected
+2019-08-11 21:30:25,450 -     20738 (0.01%) views in the Disconnected
+2019-08-11 21:30:27,713 - >>> Graph embedding @ cutoff 47 has been loaded!
+2019-08-11 21:30:27,713 - >>> 60647 nodes and 1116835 edges in the graph
+2019-08-11 21:30:27,713 -     289477889 views throughout the graph
+2019-08-11 21:30:28,772 - >>> 45839 (75.47%) nodes in the largest SCC
+2019-08-11 21:30:28,792 -     286267421 (98.89%) views in the largest SCC
+2019-08-11 21:30:40,570 - >>> 14283 (23.51%) nodes in the IN component
+2019-08-11 21:30:40,570 -     8583 scc in the IN component
+2019-08-11 21:30:40,577 -     3078188 (1.06%) views in the IN component
+2019-08-11 21:31:06,706 - >>> 106 (0.17%) nodes in the OUT component
+2019-08-11 21:31:06,706 -     70 scc in the OUT component
+2019-08-11 21:31:06,707 -     98435 (0.03%) views in the OUT component
+2019-08-11 21:31:12,276 - >>> 157 (0.26%) nodes in the Tendrils
+2019-08-11 21:31:12,276 -     110 scc in the Tendrils
+2019-08-11 21:31:12,276 -     13576 (0.00%) views in the Tendrils
+2019-08-11 21:31:12,276 - >>> 355 (0.58%) nodes in the Disconnected
+2019-08-11 21:31:12,276 -     275 scc in the Disconnected
+2019-08-11 21:31:12,276 -     20269 (0.01%) views in the Disconnected
+2019-08-11 21:31:14,412 - >>> Graph embedding @ cutoff 48 has been loaded!
+2019-08-11 21:31:14,412 - >>> 60647 nodes and 1136875 edges in the graph
+2019-08-11 21:31:14,412 -     289477889 views throughout the graph
+2019-08-11 21:31:15,486 - >>> 46228 (76.11%) nodes in the largest SCC
+2019-08-11 21:31:15,502 -     286346352 (98.92%) views in the largest SCC
+2019-08-11 21:31:26,802 - >>> 13903 (22.89%) nodes in the IN component
+2019-08-11 21:31:26,802 -     8327 scc in the IN component
+2019-08-11 21:31:26,809 -     3000253 (1.04%) views in the IN component
+2019-08-11 21:31:52,046 - >>> 107 (0.18%) nodes in the OUT component
+2019-08-11 21:31:52,046 -     70 scc in the OUT component
+2019-08-11 21:31:52,047 -     97961 (0.03%) views in the OUT component
+2019-08-11 21:31:57,107 - >>> 155 (0.26%) nodes in the Tendrils
+2019-08-11 21:31:57,107 -     108 scc in the Tendrils
+2019-08-11 21:31:57,107 -     13544 (0.00%) views in the Tendrils
+2019-08-11 21:31:57,107 - >>> 347 (0.57%) nodes in the Disconnected
+2019-08-11 21:31:57,107 -     268 scc in the Disconnected
+2019-08-11 21:31:57,108 -     19779 (0.01%) views in the Disconnected
+2019-08-11 21:31:59,344 - >>> Graph embedding @ cutoff 49 has been loaded!
+2019-08-11 21:31:59,344 - >>> 60650 nodes and 1156687 edges in the graph
+2019-08-11 21:31:59,344 -     289477889 views throughout the graph
+2019-08-11 21:32:00,400 - >>> 46558 (76.65%) nodes in the largest SCC
+2019-08-11 21:32:00,417 -     286438910 (98.95%) views in the largest SCC
+2019-08-11 21:32:11,311 - >>> 13590 (22.37%) nodes in the IN component
+2019-08-11 21:32:11,312 -     8081 scc in the IN component
+2019-08-11 21:32:11,316 -     2915866 (1.01%) views in the IN component
+2019-08-11 21:32:35,895 - >>> 103 (0.17%) nodes in the OUT component
+2019-08-11 21:32:35,895 -     66 scc in the OUT component
+2019-08-11 21:32:35,895 -     90491 (0.03%) views in the OUT component
+2019-08-11 21:32:40,840 - >>> 157 (0.26%) nodes in the Tendrils
+2019-08-11 21:32:40,840 -     110 scc in the Tendrils
+2019-08-11 21:32:40,840 -     13430 (0.00%) views in the Tendrils
+2019-08-11 21:32:40,840 - >>> 332 (0.55%) nodes in the Disconnected
+2019-08-11 21:32:40,840 -     255 scc in the Disconnected
+2019-08-11 21:32:40,840 -     19192 (0.01%) views in the Disconnected
+2019-08-11 21:32:42,971 - >>> Graph embedding @ cutoff 50 has been loaded!
+2019-08-11 21:32:42,971 - >>> 60651 nodes and 1176303 edges in the graph
+2019-08-11 21:32:42,971 -     289477889 views throughout the graph
+2019-08-11 21:32:43,963 - >>> 46859 (77.15%) nodes in the largest SCC
+2019-08-11 21:32:43,977 -     286501048 (98.97%) views in the largest SCC
+2019-08-11 21:32:54,582 - >>> 13309 (21.91%) nodes in the IN component
+2019-08-11 21:32:54,582 -     7893 scc in the IN component
+2019-08-11 21:32:54,588 -     2856615 (0.99%) views in the IN component
+2019-08-11 21:33:18,719 - >>> 97 (0.16%) nodes in the OUT component
+2019-08-11 21:33:18,719 -     63 scc in the OUT component
+2019-08-11 21:33:18,719 -     88301 (0.03%) views in the OUT component
+2019-08-11 21:33:23,154 - >>> 152 (0.25%) nodes in the Tendrils
+2019-08-11 21:33:23,154 -     107 scc in the Tendrils
+2019-08-11 21:33:23,155 -     13401 (0.00%) views in the Tendrils
+2019-08-11 21:33:23,155 - >>> 323 (0.53%) nodes in the Disconnected
+2019-08-11 21:33:23,155 -     247 scc in the Disconnected
+2019-08-11 21:33:23,155 -     18524 (0.01%) views in the Disconnected

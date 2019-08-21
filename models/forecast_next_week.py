@@ -22,7 +22,7 @@ from models.predictors import *
 def main():
     # == == == == == == Part 1: Set up environment == == == == == == #
     data_prefix = '../data/'
-    partition_dirname = './video_partition4'
+    partition_dirname = './video_partition'
     result_dirname = './model_results'
 
     # == == == == == == Part 2: Load target videos set == == == == == == #

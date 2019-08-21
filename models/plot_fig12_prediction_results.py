@@ -7,7 +7,7 @@
 (c) link strength vs. view ratio from src to tar
 
 Usage: python plot_fig12_prediction_results.py
-Input data files: ./embed_prediction.json
+Input data files: ./forecast_tracker_all.json
 Time: ~1M
 """
 
@@ -54,7 +54,7 @@ def main():
     naive_smape_list, snaive_smape_list, ar_smape_list, rnn_smape_list, arnet_smape_list = [[] for _ in range(5)]
     naive_daily_smape_mat, snaive_daily_smape_mat, ar_daily_smape_mat, rnn_daily_smape_mat, arnet_daily_smape_mat = [np.empty((0, NUM_OUTPUT), np.float) for _ in range(5)]
 
-    with open('./embed_prediction.json', 'r') as fin:
+    with open('./forecast_tracker_all.json', 'r') as fin:
         for line in fin:
             result_json = json.loads(line.rstrip())
             tar_embed = result_json['embed']

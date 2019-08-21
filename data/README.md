@@ -2,7 +2,7 @@
 
 These datasets are first used in the following paper.
 If you use these datasets, or refer to its results, please cite:
-> [Siqi Wu](https://avalanchesiqi.github.io/), [Marian-Andrei Rizoiu](http://www.rizoiu.eu/), and [Lexing Xie](http://users.cecs.anu.edu.au/~xlx/). Estimating Attention Flow in Online Video Network. *ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW)*, 2019. \[[paper](https://avalanchesiqi.github.io/files/icwsm2018engagement.pdf)\]
+> [Siqi Wu](https://avalanchesiqi.github.io/), [Marian-Andrei Rizoiu](http://www.rizoiu.eu/), and [Lexing Xie](http://users.cecs.anu.edu.au/~xlx/). Estimating Attention Flow in Online Video Network. *ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW)*, 2019. \[[paper](https://avalanchesiqi.github.io/files/cscw2019network.pdf)\]
 
 ## Data
 The data is hosted on [Google Drive](https://drive.google.com/drive/folders/19R3_2hRMVqlMGELZm47ruk8D9kqJvAmL?usp=sharing) and [Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TORICY).
@@ -72,7 +72,7 @@ where `--5boVTkNSo` appears at position 36 of `CqMDF5NLi_M`'s relevant list.
 `CqMDF5NLi_M` has 194 views on that day (2018-09-01).
 
 ### persistent_network.csv
-52758 extracted persistent network in the format of (source embed, target embed) pair.
+52758 extracted persistent network in the format of (source embed, target embed) pair, delimited by comma.
 The first line is header.
 
 ### recsys/
@@ -86,8 +86,10 @@ relevant_list is collected by querying YouTube Data API.
 6 videos from Adele to plot the teaser figure.
 
 ### vevo_en_embeds_60k.txt
-60740 video embeds in the format of (embed, vid, video title) pair.
-An example is `0,--5boVTkNSo,Erick Sermon - Feel It ft. Sy Scott`, delimited by comma.
+60740 video embeds in the format of (embed, vid, video title) pair, delimited by comma.
+```text
+0,--5boVTkNSo,Erick Sermon - Feel It ft. Sy Scott
+```
 
 ### vevo_en_videos_60k.json
 60740 Vevo video in `json` format.
@@ -122,5 +124,7 @@ An example is `0,--5boVTkNSo,Erick Sermon - Feel It ft. Sy Scott`, delimited by 
 ```
 
 ### vevo_forecast_data_60k.tsv
-60740 Vevo video in the format of (embed, vid, daily views in 63 days observation window, total views in 63 days) pair.
-An example is `0       --5boVTkNSo     105,92,77,90,94,82,93,83,69,84,82,98,73,102,97,93,92,98,86,71,107,107,47,74,78,66,68,87,86,74,73,67,50,57,88,75,72,74,71,53,66,90,92,73,65,70,59,62,81,81,44,63,69,76,72,84,70,60,82,69,84,77,90        4914`, delimited by tab.
+60740 Vevo video in the format of (embed, vid, daily views in 63 days, total views in 63 days) pair, delimited by tab.
+```text
+0       --5boVTkNSo     105,92,77,90,94,82,93,83,69,84,82,98,73,102,97,93,92,98,86,71,107,107,47,74,78,66,68,87,86,74,73,67,50,57,88,75,72,74,71,53,66,90,92,73,65,70,59,62,81,81,44,63,69,76,72,84,70,60,82,69,84,77,90        4914
+```

@@ -99,7 +99,7 @@ def main():
     timer.stop()
 
     plt.tight_layout()
-    # plt.savefig('../images/measure_spearmanr.pdf', bbox_inches='tight')
+    plt.savefig('../images/measure_spearmanr.pdf', bbox_inches='tight')
     if not platform.system() == 'Linux':
         plt.show()
 

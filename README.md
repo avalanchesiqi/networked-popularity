@@ -1,9 +1,8 @@
-
 # Code and Data for YouTube Networked Popularity Study
 
 We release the code and data for the following paper.
 If you use these datasets, or refer to its results, please cite:
-> [Siqi Wu](https://avalanchesiqi.github.io/), [Marian-Andrei Rizoiu](http://www.rizoiu.eu/), and [Lexing Xie](http://users.cecs.anu.edu.au/~xlx/). Estimating Attention Flow in Online Video Network. *ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW)*, 2019. \[[paper](https://avalanchesiqi.github.io/files/cscw2019network.pdf)\]
+> [Siqi Wu](https://avalanchesiqi.github.io/), [Marian-Andrei Rizoiu](http://www.rizoiu.eu/), and [Lexing Xie](http://users.cecs.anu.edu.au/~xlx/). Estimating Attention Flow in Online Video Networks. *ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW)*, 2019. \[[paper](https://avalanchesiqi.github.io/files/cscw2019network.pdf)\|[slides](https://avalanchesiqi.github.io/files/cscw2019slides.pdf)\|[blog](https://medium.com/acm-cscw/how-does-the-network-of-youtube-music-videos-drive-attention-42130144b59b)\]
 
 ## Code usage
 We provide three quickstart bash scripts:
